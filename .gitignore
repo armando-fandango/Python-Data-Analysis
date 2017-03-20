@@ -1,1 +1,16 @@
 .ipynb_checkpoints
+ch-05/np.csv
+ch-05/pd.csv
+ch-05/test.h5
+prof_demo.py.lprof
+dump.rdb
+ch-12/__pycache__
+ch-12/build
+*.so
+cython_module.c
+ch-11/fort_sum.cpython-36m-darwin.so.dSYM
+ch-11/bfort_sum.cpython-36m-darwin.so.dSYM
+sunspots.mat
+sum_rain_wrap.cxx
+*.o
+sum_rain.py
