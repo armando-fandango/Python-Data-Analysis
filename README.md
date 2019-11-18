@@ -1,3 +1,6 @@
+Please note that this repository is not being maintained anymore.
+
+
 # Python Data Analysis Second Edition
 Python Data Analysis Second Edition by Packt
 
